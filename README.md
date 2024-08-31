@@ -62,7 +62,7 @@ The AI is designed to have maximum freedom of choice to enhance realism. It can 
 
 ## Tests Performed
 
-This repository includes two test cases conducted with the Gemini 1.5 Flash AI. Review these tests to observe the AI's performance in those scenarios.
+[tests](https://github.com/marcoseverini/talos-principle-ai-simulation/tree/main/tests) folder includes two test cases conducted with the Gemini 1.5 Flash AI. Review these tests to observe the AI's performance in those scenarios. In one, the AI ​​got the tower ending. In the other, the ending of paradise. Draw your own conclusions, and enjoy reading them.
 
 ## Team
 

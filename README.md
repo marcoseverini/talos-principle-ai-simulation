@@ -69,6 +69,8 @@ This repository includes two test cases conducted with the Gemini 1.5 Flash AI. 
 - **Marco Severini:** Code Development
 - **Davide Rozmarynowski:** Transformation of the game into textual scripts
 
+##
+
                                 ...',;;:cccccccc:;,..
                             ..,;:cccc::::ccccclloooolc;'.
                          .',;:::;;;;:loodxk0kkxxkxxdocccc;;'..

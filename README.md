@@ -44,9 +44,9 @@ Progress is saved in text files (`A.txt`, `B.txt`, or `C.txt`) at the end of eac
 The information used in the project comes from:
 1. **Conversations with the Terminal:** `.dlg` files in the `ComputerTerminalDialogs` folder.
 2. **Terminal Booklet Texts:** `Talos_Terminal_Booklet.pdf` included in the game files.
-3. **QR Codes:** Referenced from Steam Community Guide.
-4. **Time Capsule Locations:** Referenced from Steam Community Guide.
-5. **Time Capsule Content:** Referenced from Steam Community Guide.
+3. **QR Codes:** Referenced from [Steam Community](https://steamcommunity.com/sharedfiles/filedetails/?id=652167581).
+4. **Time Capsule Locations:** Referenced from [Steam Community](https://steamcommunity.com/sharedfiles/filedetails/?id=356003215).
+5. **Time Capsule Content:** Referenced from [Steam Community](https://steamcommunity.com/sharedfiles/filedetails/?id=2378756869).
 6. **Additional Information:** Derived from gameplay.
 
 These sources are integrated into the `sources.py` file and organized in the `QUI.drawio` flow diagram.

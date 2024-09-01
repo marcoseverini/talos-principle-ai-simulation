@@ -37,7 +37,7 @@ The code is currently configured for the Gemini 1.5 Flash API. To use a differen
 
 ### Saving Progress
 
-Progress is saved in text files (`A.txt`, `B.txt`, or `C.txt`) at the end of each game section (buildings A, B, and C). These files store the game history up to that point to prevent data loss. After completing the game, a `output.txt` file will be created containing the entire game history, allowing you to safely delete the `A.txt`, `B.txt`, and `C.txt` files.
+Progress is saved in text files (`A.txt`, `B.txt`, or `C.txt`) at the end of each game section (buildings A, B, and C). These files store the game history up to that point to prevent data loss. After completing the game, an `output.txt` file will be created containing the entire game history, allowing you to safely delete the `A.txt`, `B.txt`, and `C.txt` files.
 
 ## Sources
 

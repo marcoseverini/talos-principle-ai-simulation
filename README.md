@@ -49,7 +49,7 @@ The information used in the project comes from:
 5. **Time Capsule Content:** Referenced from [Steam Community](https://steamcommunity.com/sharedfiles/filedetails/?id=2378756869).
 6. **Additional Information:** Derived from gameplay.
 
-These sources are integrated into the `sources.py` file and organized in the [flow.diagram](https://github.com/marcoseverini/talos-principle-ai-simulation/blob/main/FlowDiagram.drawio).
+These sources are integrated into the `sources.py` file and organized in the [flow diagram](https://github.com/marcoseverini/talos-principle-ai-simulation/blob/main/FlowDiagram.drawio).
 
 
 ## Puzzles
